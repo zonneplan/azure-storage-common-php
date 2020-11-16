@@ -18,5 +18,7 @@
         "psr-4": {
             "MicrosoftAzure\\Storage\\Common\\": "src/Common"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
